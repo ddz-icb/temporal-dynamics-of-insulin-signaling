@@ -14,7 +14,7 @@ library(gplots)
 #                     FUNCTION DEFINITIONS                               #
 ##########################################################################
 
-source(file="E:/Projekte/Phospho2.1/ddz-pd-phospho-lib.r")
+source(file="/library/ddz-pd-phospho-lib.r")
 
 
 
