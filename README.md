@@ -14,4 +14,14 @@ The code was tested on hardware from 2020 with an Intel Core i7 multi-core CPU a
 - Mac: macOS 11 (Big Sur)
 - Windows: Windows 10
 
-#### R packages
+#### R dependencies
+- R >= v4.2.1
+- ClueR >= v1.4
+- dplyr v1.0.9
+- ggplot2 >= v3.3.6
+- gplots >= v3.1.3
+- ggpubr >= v0.4.0
+- ggsankey >= v0.0.99999
+- ggseqlogo >= v0.1
+- ReactomePA >= v1.4.0
+- topGO >= v2.48.0
